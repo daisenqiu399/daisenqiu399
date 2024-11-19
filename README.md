@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zbwer" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=daisenqiu399" />
 </div>
 
 <div align="center">
@@ -33,7 +33,7 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZbWeR/zbwer/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZbWeR/zbwer/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ZbWeR/zbwer/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daisenqiu399/daisenqiu399/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daisenqiu399/daisenqiu399/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/daisenqiu399/daisenqiu399/output/github-contribution-grid-snake.svg" />
 </picture>
