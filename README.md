@@ -23,8 +23,8 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zbwer&theme=tokyonight&show_icons=true" height="170px">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zbwer&layout=compact&theme=tokyonight" height="170px">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=daisenqiu399&theme=tokyonight&show_icons=true" height="170px">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daisenqiu399&layout=compact&theme=tokyonight" height="170px">
 <div>
     
 <picture>
