@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=870&height=100&lines=%3C+%F0%9F%91%8B%F0%9F%8F%BBHello%2CWorld!+I+am+zbwer+%2F%3E" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=870&height=100&lines=%3C+%F0%9F%91%8B%F0%9F%8F%BBHello%2CWorld!+I+am+戴森球+%2F%3E" alt="Typing SVG" /></a>
 </div>
 <div align="center">
         <img src="https://img.shields.io/badge/dynamic/json?logoColor=fff&logo=bilibili&color=000&labelColor=ff69b4&label=Bilibili&query=%24.data.totalSubs&suffix=%20Fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D280598828" alt="">
@@ -11,11 +11,10 @@
 <hr>
 
 <div align="center">
-    <p>我来自位于成都的电子科技大学👨‍🎓</p>
-    <p>我正在鹅厂担任前端开发实习生 🐧</p>
+    <p>我来自贵州医科大学👨‍🎓</p>
+    <p>我正在海康威视担任前端开发实习生 🐧</p>
     <p>欢迎与我一起探讨前端方向的问题😎</p>
-    <p>平日里,我喜欢踢足球⚽与轮滑🛹</p>
-    <p>我最喜欢的游戏是 OverWatch🚀 和 FarmTogether🦄</p>
+    <p>平日里,我喜欢打篮球</p>
     <p>🌟 Have a Nice day! 🌟</p>
 </div>
 
